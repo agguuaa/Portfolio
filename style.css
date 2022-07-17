@@ -22,6 +22,7 @@ h5 {
 h1 {
   font-size: 96px;
   margin: 0;
+  line-height: 1.5;
 }
 
 h2 {
@@ -80,6 +81,18 @@ p {
 }
 
 @media (max-width: 900px) {
+  h1 {
+    font-size: 50px;
+  }
+
+  h2 {
+    font-size: 42px;
+  }
+
+  .hero {
+    padding: 80px 20px;
+  }
+
   .project-description {
     padding: 0;
     text-align: center;
