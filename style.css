@@ -37,7 +37,7 @@ p {
   line-height: 30px;
 }
 
-.hero {
+#hero {
   background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
@@ -48,14 +48,14 @@ p {
   padding: 0;
 }
 
-.hero p {
+#hero p {
   font-family: "poppins";
   font-size: 36px;
   font-weight: bold;
   margin: 0;
 }
 
-.hero h2 {
+#hero h2 {
   font-family: "poppins", sans-serif;
   font-weight: normal;
   font-size: 24px;
